@@ -1,0 +1,10 @@
+C:\Users\Enesd\source\repos\kronometre1\kronometre1\bin\Debug\kronometre1.exe.config
+C:\Users\Enesd\source\repos\kronometre1\kronometre1\bin\Debug\kronometre1.exe
+C:\Users\Enesd\source\repos\kronometre1\kronometre1\bin\Debug\kronometre1.pdb
+C:\Users\Enesd\source\repos\kronometre1\kronometre1\obj\Debug\kronometre1.csprojAssemblyReference.cache
+C:\Users\Enesd\source\repos\kronometre1\kronometre1\obj\Debug\kronometre1.Form1.resources
+C:\Users\Enesd\source\repos\kronometre1\kronometre1\obj\Debug\kronometre1.Properties.Resources.resources
+C:\Users\Enesd\source\repos\kronometre1\kronometre1\obj\Debug\kronometre1.csproj.GenerateResource.cache
+C:\Users\Enesd\source\repos\kronometre1\kronometre1\obj\Debug\kronometre1.csproj.CoreCompileInputs.cache
+C:\Users\Enesd\source\repos\kronometre1\kronometre1\obj\Debug\kronometre1.exe
+C:\Users\Enesd\source\repos\kronometre1\kronometre1\obj\Debug\kronometre1.pdb
